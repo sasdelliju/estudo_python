@@ -1,0 +1,3 @@
+([('Assistente_SAP',
+   '/Users/faustosasdelli/Python/Agente_Local_Offline/dist/Assistente_SAP',
+   'EXECUTABLE')],)

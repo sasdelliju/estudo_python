@@ -1,0 +1,6 @@
+2025/11/20-16:05:44.110 232a32 Reusing MANIFEST /Users/faustosasdelli/Python/wpp_perfil/Default/Local Storage/leveldb/MANIFEST-000001
+2025/11/20-16:05:44.113 232a32 Recovering log #3
+2025/11/20-16:05:44.114 232a32 Reusing old log /Users/faustosasdelli/Python/wpp_perfil/Default/Local Storage/leveldb/000003.log 
+2025/11/20-16:06:17.645 232a32 Level-0 table #5: started
+2025/11/20-16:06:17.656 232a32 Level-0 table #5: 20979 bytes OK
+2025/11/20-16:06:17.660 232a32 Delete type=0 #3

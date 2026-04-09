@@ -1,0 +1,10 @@
+Date: 20/11/2025
+Time: 15:0
+Phone Number: +5541997194288
+Message: Oi! Tudo bem? Essa é uma mensagem automática que estou testando com Python 😄Abraço!
+--------------------
+Date: 20/11/2025
+Time: 15:0
+Phone Number: +5541995997928
+Message: Oi! Tudo bem? Essa é uma mensagem automática que estou testando com Python 😄Abraço!
+--------------------

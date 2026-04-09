@@ -1,0 +1,48 @@
+Last login: Wed Nov 19 14:38:43 on ttys004
+faustosasdelli@Faustos-Laptop ~ % crontab -e
+crontab: no crontab for faustosasdelli - using an empty one
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/10 * * * * /Users/faustosasdelli/Python/send_email.py
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+
