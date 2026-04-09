@@ -16,7 +16,8 @@ PALAVRAS_CHAVE = [
     "não pagar",
     "prazo",
     "sindicato",
-    "oposição"
+    "oposição",
+    "presenncial"
 ]
 
 # Envio de e-mail
