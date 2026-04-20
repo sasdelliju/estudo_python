@@ -76,7 +76,7 @@ def salvar_resultado(texto):
 # ======================================================
 def verificar_site():
     try:
-        resposta = requests.get(URL, timeout=10)
+        resposta = requests.get(URL, timeout=20)
         resposta.raise_for_status()
 
         soup = BeautifulSoup(resposta.text, "html.parser")
